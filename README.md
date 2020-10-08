@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Anonymous616&&show_icons=true&title_color=39cccc&icon_color=39cccc&text_color=39cccc&bg_color=001f3f"/>
 
 
-<span><a href="https://www.linkedin.com/in/deongracias/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parthpanchal123" height="40" width="40" /></a></span>
+<span><a href="https://www.linkedin.com/in/deongracias/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deongracias" height="40" width="40" /></a></span>
