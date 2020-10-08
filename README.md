@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="react" height="40" width="40" />
 <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" height="40" width="40" />
 <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="java" height="40" width="40" />
-<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cpp.svg" alt="cpp" height="40" width="40" />
+<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cpp.svg" alt="cplusplus" height="40" width="40" />
+
 
 #### Social
 <a href="https://www.linkedin.com/in/deongracias/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deongracias" height="40" width="40" /></a>
