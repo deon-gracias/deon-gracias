@@ -11,9 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zraeondommbringer@gmail.com
 - 😄 Pronouns: He / is
 - ⚡ Fun fact: Shark skin feels similar to sandpaper.
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=Anonymous616&&show_icons=true&title_color=39cccc&icon_color=39cccc&text_color=39cccc&bg_color=001f3f" />
-<br />
+
 
 **Languages**
 <br />
@@ -35,3 +33,8 @@ Here are some ideas to get you started:
 
 <br />
 <a href="https://www.linkedin.com/in/deongracias/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
+
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=Anonymous616&&show_icons=true&title_color=39cccc&icon_color=39cccc&text_color=39cccc&bg_color=001f3f" />
+<br />
+
