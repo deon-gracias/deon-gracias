@@ -21,7 +21,6 @@
 
 <a href="https://www.linkedin.com/in/deongracias/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
 <br/>
-**Stats**
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anonymous616&&show_icons=true&title_color=39cccc&icon_color=39cccc&text_color=39cccc&bg_color=001f3f" />
 
