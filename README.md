@@ -1,3 +1,6 @@
+<body style="background: #39cccc; color:#001f3f">
+
+
 ### Hi there 👋
 
 <!--
@@ -16,3 +19,4 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anonymous616&&show_icons=true&title_color=39cccc&icon_color=39cccc&text_color=39cccc&bg_color=001f3f"/>
+</body>
