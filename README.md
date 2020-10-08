@@ -32,4 +32,6 @@ Here are some ideas to get you started:
 <br />
 
 **Social**
+
+<br />
 <a href="https://www.linkedin.com/in/deongracias/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
