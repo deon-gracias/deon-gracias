@@ -1,4 +1,4 @@
-![
+
 ### Hi there 👋
 <!--
 **Anonymous616/Anonymous616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anonymous616&&show_icons=true&title_color=39cccc&icon_color=39cccc&text_color=39cccc&bg_color=001f3f"/>
-](https://via.placeholder.com/15/f03c15/000000?text=+)
+
