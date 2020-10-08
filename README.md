@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zraeondommbringer@gmail.com
 - 😄 Pronouns: He / is
 - ⚡ Fun fact: Shark skin feels similar to sandpaper.
-
-
+<br />
 <img src="https://github-readme-stats.vercel.app/api?username=Anonymous616&&show_icons=true&title_color=39cccc&icon_color=39cccc&text_color=39cccc&bg_color=001f3f"/>
-
+<br />
 **Languages**
+<br />
 <code><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" width="40" /></code>
 <code>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="cplusplus" height="40" width="40" /></code>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <code>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" height="40" width="40" /></code>
 
-
+<br />
 
 **Social**
 <a href="https://www.linkedin.com/in/deongracias/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
