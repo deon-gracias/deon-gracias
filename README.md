@@ -6,7 +6,7 @@
 <!--- 🔭 I’m currently working on ... -->
 
 - 🌱 I’m currently learning <b>React</b><!--- 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with <b>Artificial Intelligence></b>
+- 🤔 I’m looking for help with <b>Artificial Intelligence</b>
 - 💬 Ask me about anything
 - 📫 How to reach me: zraeondommbringer@gmail.com
 - 😄 Pronouns: He / is
