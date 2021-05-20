@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with <b>Artificial Intelligence</b>
 - 💬 Ask me about anything
 - 📫 How to reach me: deongracias1@gmail.com
-- 😄 Pronouns: He / is
+- 😄 Pronouns: He
 - ⚡ Fun fact: Shark skin feels similar to sandpaper.
 
 **Languages**
