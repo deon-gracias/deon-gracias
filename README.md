@@ -5,11 +5,10 @@
 
 <!--- 🔭 I’m currently working on ... -->
 
-- 🌱 I’m currently learning <b>React</b><!--- 👯 I’m looking to collaborate on ... -->
+- 🌱 I’m currently learning <b>Django-REST</b><!--- 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with <b>Artificial Intelligence</b>
 - 💬 Ask me about anything
 - 📫 How to reach me: deongracias1@gmail.com
-- 😄 Pronouns: He
 - ⚡ Fun fact: Shark skin feels similar to sandpaper.
 
 **Languages**
