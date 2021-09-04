@@ -18,7 +18,7 @@
 
 **Social**
 
-<a href="https://www.linkedin.com/in/deongracias/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/deongracias/" target="blank"><svg color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
 
 
 
