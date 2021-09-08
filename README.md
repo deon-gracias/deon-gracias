@@ -10,12 +10,10 @@
 <!--- 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 
-<div align="center">
 - 🌱 I’m currently learning <b>REST API's</b>
 - 🤔 I’m looking for help with <b>Artificial Intelligence</b>
 - 💬 Ask me about anything
 - 📫 How to reach me: deongracias1@gmail.com
-</div>
 <!-- - ⚡ Fun fact: Shark skin feels similar to sandpaper. -->
 
 ### Technical Skills
