@@ -8,9 +8,9 @@
 ### Hi there 👋
 
 <!--- 🔭 I’m currently working on ... -->
-
-- 🌱 I’m currently learning <b>Node JS API</b>
 <!-- - 👯 I’m looking to collaborate on ... -->
+
+- 🌱 I’m currently learning <b>REST API's</b>
 - 🤔 I’m looking for help with <b>Artificial Intelligence</b>
 - 💬 Ask me about anything
 - 📫 How to reach me: deongracias1@gmail.com
