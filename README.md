@@ -3,18 +3,25 @@
 **Anonymous616/Anonymous616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!-- Cover -->
-<p align="center"><img src="https://user-images.githubusercontent.com/58945356/132085299-febe5cd0-746c-4cb3-9f1d-bf9d3794fa14.png" alt="Cover" /></p>
+<div align="center"><img src="https://user-images.githubusercontent.com/58945356/132085299-febe5cd0-746c-4cb3-9f1d-bf9d3794fa14.png" alt="Cover" />
 
-### Hi there 👋
+------------
+
+## Hi there 👋
 
 <!--- 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 
-- 🌱 I’m currently learning <b>REST API's</b>
-- 🤔 I’m looking for help with <b>Artificial Intelligence</b>
-- 💬 Ask me about anything
-- 📫 How to reach me: deongracias1@gmail.com
+🌱 I’m currently learning <b>REST API's</b>
+
+🤔 I’m looking for help with <b>Artificial Intelligence</b>
+
+💬 Ask me about anything
+
+📫 How to reach me: deongracias1@gmail.com
 <!-- - ⚡ Fun fact: Shark skin feels similar to sandpaper. -->
+
+------------
 
 ### Technical Skills
 
@@ -38,6 +45,7 @@
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="Sass">
 </p>
 
+
 <p>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
@@ -45,12 +53,18 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
+------------
+
 ### Social
 
+<p>
 <a href="https://www.linkedin.com/in/deongracias/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="mailto:deongracias1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+</p>
+
+------------
 
 ### Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anonymous616&&show_icons=true&title_color=39cccc&icon_color=39cccc&text_color=39cccc&bg_color=001f3f" />
-
+</div>
