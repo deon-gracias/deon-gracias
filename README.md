@@ -3,7 +3,7 @@
 **Anonymous616/Anonymous616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!-- Cover -->
-<div align="center"><img src="https://user-images.githubusercontent.com/58945356/132085299-febe5cd0-746c-4cb3-9f1d-bf9d3794fa14.png" alt="Cover" />
+<div align="center"><img src="https://user-images.githubusercontent.com/58945356/132537431-008c7a40-0f51-4163-a6ce-9dd2876ba363.png" alt="Cover" />
 
 ------------
 
