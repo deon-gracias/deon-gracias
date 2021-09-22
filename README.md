@@ -12,7 +12,7 @@
 <!--- 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 
-🌱 I’m currently learning <b>REST API's</b>
+🌱 I’m currently learning <b>Machine Learning</b>
 
 🤔 I’m looking for help with <b>Artificial Intelligence</b>
 
