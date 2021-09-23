@@ -66,5 +66,5 @@
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=deon-graicas&&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=121212" />
+<img src="https://github-readme-stats.vercel.app/api?username=deon-gracias&&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=121212" />
 </div>
