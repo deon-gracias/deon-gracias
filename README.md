@@ -59,14 +59,13 @@
 
 ### Socials
 
-<span>
+<center>
   <a href="https://www.linkedin.com/in/deongracias/" target="_blank">
     <img style="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:deongracias1@gmail.com" target="_blank">
     <img style="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-</span>
 
 ---
 
