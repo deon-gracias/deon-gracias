@@ -12,8 +12,8 @@
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 
-- <div style="display: flex; align-items:center; gap: 6px" >📖 I’m currently learning
-  <img style="border-radius: 5px; height: 1.5rem" src="https://img.shields.io/badge/NEXT%20JS-000000.svg?style=for-the-badge&logo=Next.js&labelColor=000000"></div>
+- <span style="display: flex; align-items:center; gap: 6px" >📖 I’m currently learning
+  <img style="border-radius: 5px; height: 1.5rem" src="https://img.shields.io/badge/NEXT%20JS-000000.svg?style=for-the-badge&logo=Next.js&labelColor=000000"></span>
 
 - 🤔 I’m looking for help with **Artificial Intelligence**
 
@@ -22,9 +22,9 @@
 <!-- - <span style="display: flex; align-items:center; gap: 6px" >📫 How to reach me :
   <a style="display: flex; align-items:center; gap: 6px" href="mailto:deongracias1@gmail.com" target="_blank"><img style="border-radius: 5px; height: 1.5rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a></span> -->
 
-- <div style="display: flex; align-items:center; gap: 6px" >⚡ Fun fact: I use
+- <span style="display: flex; align-items:center; gap: 6px" >⚡ Fun fact: I use
   <img style="border-radius: 5px; height: 1.5rem" src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch linux">
-  btw !</div>
+  btw !</span>
 
 ---
 
