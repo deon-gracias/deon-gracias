@@ -40,6 +40,7 @@
   <img style="" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart">
 </span>
 
+
 <span style="display:flex; gap: 5px;">
   <img style="" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react">
   <img style="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
@@ -47,6 +48,7 @@
   <img style="" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass">
   <img style="" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter">
 </span>
+
 
 <span style="display:flex; gap: 5px;">
   <img style="" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="vim">
@@ -72,4 +74,5 @@
 ### Stats
 <!-- <div style="display: grid; place-items: center; width: 100%;"> -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deon-gracias&&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=121212" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deon-gracias&&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=121212" />
+</div>
