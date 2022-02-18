@@ -13,7 +13,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 
 - <span style="display: flex; align-items:center; gap: 6px" >📖 I’m currently learning
-  <img style="height: 22px" src="https://img.shields.io/badge/NEXT%20JS-000000.svg?style=for-the-badge&logo=Next.js&labelColor=000000"></span>
+  <img style="height: 16px" src="https://img.shields.io/badge/NEXT%20JS-000000.svg?style=for-the-badge&logo=Next.js&labelColor=000000"></span>
 
 - 🤔 I’m looking for help with **Artificial Intelligence**
 
@@ -23,7 +23,7 @@
   <a style="display: flex; align-items:center; gap: 6px" href="mailto:deongracias1@gmail.com" target="_blank"><img style="height: 22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a></span> -->
 
 - <span style="display: flex; align-items:center; gap: 6px" >⚡ Fun fact: I use
-  <img style="height: 22px" src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch linux">
+  <img style="height: 16px" src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch linux">
   btw !</span>
 
 ---
