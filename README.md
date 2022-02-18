@@ -12,7 +12,7 @@
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 
-- <span style="display: flex; align-items:center; gap: 6px" >📖 I’m currently learning
+<span style="display: flex; align-items:center; gap: 6px" > - 📖 I’m currently learning
   <img style="border-radius: 5px; height: 20px" src="https://img.shields.io/badge/NEXT%20JS-000000.svg?style=for-the-badge&logo=Next.js&labelColor=000000"></span>
 
 - 🤔 I’m looking for help with **Artificial Intelligence**
