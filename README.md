@@ -12,11 +12,11 @@
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 
-- 📖 I’m currently learning [Next.js](https://nextjs.org/)
+- 📖 I’m currently learning **Machine Learning**
 
 - 🤔 I’m looking for help with **Artificial Intelligence**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me anything about **Web Development**
 
 <!-- - <span style="display: flex; align-items:center; gap: 6px" >📫 How to reach me :
   <a style="display: flex; align-items:center; gap: 6px" href="mailto:deongracias1@gmail.com" target="_blank"><img style="height: 22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a></span> -->
@@ -41,6 +41,7 @@
 </p>
 
 <p>
+  <img alt="" src="https://img.shields.io/badge/Next.js?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20">
   <img style="" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react">
   <img style="" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
   <img style="" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django">
