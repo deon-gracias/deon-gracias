@@ -12,7 +12,7 @@
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 
-- 📖 I’m currently learning **Machine Learning**
+- 📖 I’m currently learning **Rust**
 
 - 🤔 I’m looking for help with **Artificial Intelligence**
 
