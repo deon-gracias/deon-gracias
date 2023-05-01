@@ -1,5 +1,5 @@
 <!--
-**Anonymous616/Anonymous616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**deon-gracias/deon-gracias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <!-- Cover -->
 <img src="https://user-images.githubusercontent.com/58945356/132537731-ca6396a6-b019-4e05-8eeb-21f3401b5fd2.png" alt="Cover" />
@@ -8,20 +8,20 @@
 
 ### Hi there 👋
 
-<!--- 🔭 I’m currently working on ... -->
+<!-- - 🔭 I’m currently working on ... -->
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 
 - 📖 I’m currently learning **Rust**
 
-- 🤔 I’m looking for help with **Artificial Intelligence**
+- 🤔 I’m looking for help with **Machine Learning**
 
 - 💬 Ask me anything about **Web Development**
 
-<!-- - <span style="display: flex; align-items:center; gap: 6px" >📫 How to reach me :
-  <a style="display: flex; align-items:center; gap: 6px" href="mailto:deongracias1@gmail.com" target="_blank"><img style="height: 22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a></span> -->
+- ⚡ Fun fact: I use **Arch** btw !
 
-- ⚡ Fun fact: I use **Arch** btw !</span>
+
+<!-- - <span style="display: flex; align-items:center; gap: 6px" >📫 How to reach me : <a style="display: flex; align-items:center; gap: 6px" href="mailto:deongracias1@gmail.com" target="_blank"><img style="height: 22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a></span> -->
 
 ---
 
