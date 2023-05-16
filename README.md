@@ -73,13 +73,13 @@
 ### Socials
 
 <center>
-   <a href="https://deongracias.live" target="_blank">
+   <a href="https://deongracias.live" target="blank">
     <img style="" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio-website" />
   </a>
-  <a href="https://in.linkedin.com/in/deongracias" target="_blank">
+  <a href="https://in.linkedin.com/in/deongracias" target="blank">
     <img style="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:deongracias1@gmail.com" target="_blank">
+  <a href="mailto:deongracias1@gmail.com" target="blank">
     <img style="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
 
