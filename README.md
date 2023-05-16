@@ -55,6 +55,11 @@
 </p>
 
 <p>
+  <img style="" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
+  <img style="" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman">
+</p>
+
+<p>
   <img style="" src="https://img.shields.io/badge/GNU%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="GNU/Linux">
 <!--   <img style="" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="archlinux"> -->
   <img style="" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="vim">
@@ -68,6 +73,9 @@
 ### Socials
 
 <center>
+   <a href="https://deongracias.live" target="_blank">
+    <img style="" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio-website" />
+  </a>
   <a href="https://in.linkedin.com/in/deongracias" target="_blank">
     <img style="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
