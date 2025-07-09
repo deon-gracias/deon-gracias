@@ -73,7 +73,7 @@
 ### Socials
 
 <center>
-   <a href="https://deongracias.live" target="blank">
+   <a href="https://portfolio-deon.vercel.app/" target="blank">
     <img style="" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio-website" />
   </a>
   <a href="https://in.linkedin.com/in/deongracias" target="blank">
